@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlangevi
 - 👀 I’m interested in learning to read Chinese
-- 🌱 I’m currently learning differnt web technologies to make my own app to help with that.
+- 🌱 I’m currently learning different mondern web technologies by creating a desktop application with wails.io.
 - 💞️ I’m looking to collaborate on not much right now, but if you have a project in the language learning space maybe I would help out
 - 📫 How to reach me? {github username} @uwaterloo.ca
 
